@@ -1,1 +1,1 @@
-wordlist = ['helicopter','doraemon','Salman Khan']
+wordlist = []
