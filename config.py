@@ -1,1 +1,1 @@
-TOKEN = "MTIyODI4ODAxNDUxODU4NzQzMg.GuZEYg.KQ0esPMLqfegDN0vxy6E3T1QILgMFvkT5K4t-U"
+TOKEN = "paste your token here"
